@@ -2,6 +2,7 @@ package com.example.emulator;
 
 import android.nfc.cardemulation.HostApduService;
 import android.os.Bundle;
+import android.util.Log;
 
 /**
  * This class was created for the Host Based Card Emulator Service.
